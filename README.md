@@ -46,7 +46,7 @@ SQL-Leetcode-Questions/
 ## 🚀 Quick Start
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/SQL-Leetcode-Questions.git
+   git clone https://github.com/pdfulkar/SQL-Leetcode-Questions.git
 ---
 📚 Learning Resources
 LeetCode SQL Study Plan
